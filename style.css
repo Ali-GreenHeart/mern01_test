@@ -8,3 +8,8 @@ h1{
     text-align: center;
     display: inline-block;
 }
+
+.container{
+    text-align: center;
+    margin: 100px 0px ;
+}
