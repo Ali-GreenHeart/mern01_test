@@ -8,3 +8,12 @@ h1{
     text-align: center;
     display: inline-block;
 }
+
+footer{
+    background-color: black;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
