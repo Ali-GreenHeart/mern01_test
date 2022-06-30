@@ -1,7 +1,10 @@
 header{
     background-color: black;
+    text-align: center;
 }
 h1{
+    font-size: 100px;
     color: lime;
     text-align: center;
+    display: inline-block;
 }
