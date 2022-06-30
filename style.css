@@ -1,5 +1,7 @@
+header{
+    background-color: black;
+}
 h1{
     color: lime;
-    background-color: black;
     text-align: center;
 }
