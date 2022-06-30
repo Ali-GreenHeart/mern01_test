@@ -9,6 +9,10 @@ h1{
     display: inline-block;
 }
 
+.container{
+    text-align: center;
+    margin: 100px 0px ;
+}
 footer{
     background-color: black;
 }
